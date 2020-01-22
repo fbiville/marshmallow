@@ -1,0 +1,29 @@
+{
+  "name": "marshmallow",
+  "version": "0.0.1-snapshot",
+  "description": "Marshalling API for riff function authors",
+  "main": "marshmallow.js",
+  "scripts": {
+    "test": "npm run jasmine",
+    "jasmine": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbiville/marshmallow.git"
+  },
+  "keywords": [
+    "marshalling",
+    "faas",
+    "functions",
+    "riff"
+  ],
+  "author": "Florent Biville <fbiville@pivotal.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fbiville/marshmallow/issues"
+  },
+  "homepage": "https://github.com/fbiville/marshmallow#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
